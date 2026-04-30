@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [kenanolmez.com](kenanolmez.com)
-
 - 💬 Ask me about **UI Development**
 
 - 📫 How to reach me **kenanolmez@outlook.com**
