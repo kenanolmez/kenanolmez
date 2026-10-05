@@ -13,6 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/kenanolmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kenanolmez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kenanolmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenanolmez" height="30" width="40" /></a>
-<a href="https://instagram.com/kenan0lmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenan0lmez" height="30" width="40" /></a>
+<a href="https://instagram.com/kenanolmez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kenan0lmez" height="30" width="40" /></a>
 </p>
 
