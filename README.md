@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenan Ölmez</h1>
 <h3 align="center">A passionate frontend developer from UNHCR</h3>
 
-- 🔭 I’m currently working on **international appointment and residency project**
-
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **UI Development**
-
 - 📫 How to reach me **kenanolmez@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
